@@ -11,6 +11,8 @@ import java.util.stream.IntStream;
 import java.util.stream.Collectors;
 import java.util.Collections;
 import org.example.hexlet.model.Course;
+import org.example.hexlet.model.User;
+import java.util.stream.LongStream;
 
 public class Data {
     private static final int ITEMS_COUNT = 30;

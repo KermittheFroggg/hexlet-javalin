@@ -12,6 +12,10 @@
 <p>
     <a href="/users">Users</a>
     <a href="/courses">Courses</a>
+    <a href="/users/new">AddUser</a>
+    <a href="/courses/new">AddCourse</a>
+
+
 </p>
 ${content}
 </body>
